@@ -1,0 +1,57 @@
+h1 {
+    font-size: 2.0em;
+    margin: 20px 0 0 0;
+    font-weight: 400;
+}
+h3 {
+	color: blue;
+}
+/*table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+	font-size:17px;
+}*/
+
+button {
+    background-color: #008CBA;
+	color: white;
+}
+.error{
+    color: red;
+    font-size: 20px;
+}
+.success{
+    color: green;
+    font-size: 20px;
+}
+span.input-group-addon {
+  width: 100px;
+}
+.inputtextf
+{
+
+  margin-bottom:20px;
+}
+.btnf
+{
+
+  width:100%;
+}
+.input-group {
+  width:100%;
+}
+.imgh {
+  text-align: center;
+}
+.title {
+  background: #FAFADD;
+  padding: 10px;
+  border: 1px solid #000;
+}
+
+.error[_ngcontent-c0] {
+  color: red;
+  font-size: 13px;
+}
