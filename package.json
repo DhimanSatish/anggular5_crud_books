@@ -26,7 +26,7 @@
     "datatables.net": "^1.10.16",
     "datatables.net-dt": "^1.10.16",
     "core-js": "^2.4.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.4.0",
     "ngx-bootstrap": "^2.0.0-rc.0",
     "rxjs": "^5.5.2",
     "zone.js": "^0.8.14"
